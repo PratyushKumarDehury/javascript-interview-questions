@@ -1,6 +1,6 @@
 # javascript-interview-questions
 
-> Click :star:if you like the Questions and follow [@PratyushKumarDehury](https://github.com/PratyushKumarDehury) for more updates.
+> Click :star:if you like the questions and follow [@PratyushKumarDehury](https://github.com/PratyushKumarDehury) for more updates.
 
 ### Table of Contents
 
