@@ -456,3 +456,22 @@
 | 448 | [What is module pattern?](#what-is-module-pattern)                                                                                                            
 | 449 | [What is Function Composition?](#what-is-function-composition)                                                                                                
 | 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022)                                    
+
+
+
+ There are many ways to create objects in javascript as mentioned below:
+
+   1. **Object literal syntax:**
+
+      The object literal syntax (or object initializer), is a comma-separated set of name-value pairs wrapped in curly braces.
+
+      ```javascript
+      var object = {
+           name: "Sudheer",
+           age: 34
+      };
+
+      Object literal property values can be of any data type, including array, function, and nested object.
+      ```
+
+      **Note:** This is one of the easiest ways to create an object.
