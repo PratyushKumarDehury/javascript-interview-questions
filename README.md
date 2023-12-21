@@ -1,4 +1,4 @@
-# javascript-interview-questions
+# *javascript-interview-questions*
 
 > Click :star:if you like the questions and follow [@PratyushKumarDehury](https://github.com/PratyushKumarDehury) for more updates.
 
