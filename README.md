@@ -458,6 +458,7 @@
 | 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022)                                    
 
 
+1. ### What are the possible ways to create objects in JavaScript
 
  There are many ways to create objects in javascript as mentioned below:
 
