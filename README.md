@@ -460,7 +460,7 @@
 
 1. ### What are the possible ways to create objects in JavaScript
 
- There are many ways to create objects in javascript as mentioned below:
+   There are many ways to create objects in javascript as mentioned below:
 
    1. **Object literal syntax:**
 
